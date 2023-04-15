@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/DaniaOn/challenge18/issues"
   },
-  "homepage": "https://github.com/DaniaOn/challenge18#readme"
+  "homepage": "https://github.com/DaniaOn/challenge18#readme",
+  "dependencies": {
+    "mongoose": "^7.0.3"
+  }
 }
