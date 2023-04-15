@@ -15,7 +15,11 @@ Pending MOCK Image, Route code, controllers and Instalations
 ## Dependenses 
  - MongoDB
  - Express
-
+ 
+## Sources
+Sources used: 
+ - UTA-VIRT-FSF-PT for week 18
+ 
 ## LICENSE
 MIT License
 
