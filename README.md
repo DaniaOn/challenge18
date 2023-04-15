@@ -10,7 +10,7 @@
 As a web developer, I WANT an API for my social network that uses a NoSQL database SO THAT my website can handle large amounts of unstructured data
  
 ## Installation
-Pending MOCK Image and Instalaktions 
+Pending MOCK Image, Route code, controllers and Instalations 
 
 ## Dependenses 
  - MongoDB
