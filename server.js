@@ -1,6 +1,6 @@
 const express = require('express');
 // Run npm install mongodb and require mongodb
-const mongodb = require('mongodb');
+const db = require('./config/connection');
 
 const PORT = process.env.PORT || 3001;
 const app = express();
