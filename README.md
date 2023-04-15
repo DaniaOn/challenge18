@@ -1,4 +1,4 @@
-# Social Network API
+# Mimo Social Network API
 
  - [Description](#description)
  - [Installation](#installation)
